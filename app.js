@@ -9,7 +9,7 @@ const numberButtons = document.querySelectorAll('.button.number');
 const display = document.querySelector('.display');
 const operatorButtons = document.querySelectorAll('.button.operator');
 const equalsButton = document.querySelector('.button.equals');
-const clearButton = document.querySelector('.button.operator.C');
+const clearButton = document.querySelector('.C');
 
 /*----------------------------- Event Listeners -----------------------------*/
 numberButtons.forEach(button => {
